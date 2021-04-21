@@ -1,0 +1,1 @@
+This is an automated script to make an initial yggdrasil install on Debian-based systems.

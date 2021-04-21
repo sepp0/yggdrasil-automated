@@ -1,7 +1,7 @@
 #!/usr/bin/bash
 
 
-# Prerequisetes
+# Disabling yggdrasil in case it's already installed
 prepare () {
     systemctl stop yggdrasil.service
     systemctl disable yggdrasil.service
